@@ -167,6 +167,17 @@ img.profile-pic {
 	height: 23%;
 }
 
+.logo {
+	background-color: #000000;
+	height: 120px;
+	padding-left: 50px
+		padding-right: 50px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 48px
+		
+}
+
 .button {
 	background-color: #000000;
 	height: 48px;
